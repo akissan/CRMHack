@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://akissan.github.io/CRMHack/static/css/main.272d9b16.chunk.css",
+    "main.js": "https://akissan.github.io/CRMHack/static/js/main.52cd817f.chunk.js",
+    "main.js.map": "https://akissan.github.io/CRMHack/static/js/main.52cd817f.chunk.js.map",
+    "runtime-main.js": "https://akissan.github.io/CRMHack/static/js/runtime-main.3ac8aa24.js",
+    "runtime-main.js.map": "https://akissan.github.io/CRMHack/static/js/runtime-main.3ac8aa24.js.map",
+    "static/js/2.102c7566.chunk.js": "https://akissan.github.io/CRMHack/static/js/2.102c7566.chunk.js",
+    "static/js/2.102c7566.chunk.js.map": "https://akissan.github.io/CRMHack/static/js/2.102c7566.chunk.js.map",
+    "index.html": "https://akissan.github.io/CRMHack/index.html",
+    "static/css/main.272d9b16.chunk.css.map": "https://akissan.github.io/CRMHack/static/css/main.272d9b16.chunk.css.map",
+    "static/js/2.102c7566.chunk.js.LICENSE.txt": "https://akissan.github.io/CRMHack/static/js/2.102c7566.chunk.js.LICENSE.txt",
+    "static/media/background.4fd85e44.jpg": "https://akissan.github.io/CRMHack/static/media/background.4fd85e44.jpg",
+    "static/media/testroom.e988a775.jpg": "https://akissan.github.io/CRMHack/static/media/testroom.e988a775.jpg",
+    "static/media/waifu-negative.8f105a61.mp4": "https://akissan.github.io/CRMHack/static/media/waifu-negative.8f105a61.mp4",
+    "static/media/waifu-positive.3c8b2285.mp4": "https://akissan.github.io/CRMHack/static/media/waifu-positive.3c8b2285.mp4",
+    "static/media/waifu-standart.db35702b.mp4": "https://akissan.github.io/CRMHack/static/media/waifu-standart.db35702b.mp4",
+    "static/media/waifu_happy.eae5a9bf.png": "https://akissan.github.io/CRMHack/static/media/waifu_happy.eae5a9bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac8aa24.js",
+    "static/js/2.102c7566.chunk.js",
+    "static/css/main.272d9b16.chunk.css",
+    "static/js/main.52cd817f.chunk.js"
+  ]
+}
