@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://akissan.github.io/CRMHack/static/css/main.38ac5602.chunk.css",
-    "main.js": "https://akissan.github.io/CRMHack/static/js/main.16c64745.chunk.js",
-    "main.js.map": "https://akissan.github.io/CRMHack/static/js/main.16c64745.chunk.js.map",
+    "main.js": "https://akissan.github.io/CRMHack/static/js/main.e4d7b470.chunk.js",
+    "main.js.map": "https://akissan.github.io/CRMHack/static/js/main.e4d7b470.chunk.js.map",
     "runtime-main.js": "https://akissan.github.io/CRMHack/static/js/runtime-main.3ac8aa24.js",
     "runtime-main.js.map": "https://akissan.github.io/CRMHack/static/js/runtime-main.3ac8aa24.js.map",
     "static/js/2.102c7566.chunk.js": "https://akissan.github.io/CRMHack/static/js/2.102c7566.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.3ac8aa24.js",
     "static/js/2.102c7566.chunk.js",
     "static/css/main.38ac5602.chunk.css",
-    "static/js/main.16c64745.chunk.js"
+    "static/js/main.e4d7b470.chunk.js"
   ]
 }
